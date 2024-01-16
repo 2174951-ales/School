@@ -1,0 +1,6 @@
+het zijn 2 verschillende http-methodes die worden gebruikt voor het verzenden 
+van gegevens van een formulier naar een server.
+
+met GET worden de gegevens uit de invoervelden in de url van de pagina opgenomen.
+POST wordt gebruikt om gegevens te verzenden vanuit een html-formulier naar 
+een server.
